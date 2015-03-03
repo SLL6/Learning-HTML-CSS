@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title> Scott Lim </title>
+    <style>
+  body {background-color:lightgray}
+  h1   {color:blue}
+  p    {color:green}
+</style>
+  </head>
+  <body>
+  <h1><font size="7"><div align="center"> Scott Lim - UCSD CS Undegrad '17 - Aspiring Programmer </div></font></h1>
+  <h2><font size="6"><u> My Life </u></font></h2>
+  <h3><font size="6"><u> School </u></font></h3>
+  <h4><font size="6"><u> Programming </u></font></h4>
+  </body>
+</html>
