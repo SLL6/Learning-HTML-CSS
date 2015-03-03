@@ -1,0 +1,17 @@
+-HTML has basic structure to it in that there is a head and body
+-Elements are a composition of an ending tag, beginning tag, and anything in between.
+-We can use elements to alter the webpage.
+-We indicate that code is going to be in html with the <html> tag.
+
+Head
+  -We place elements in here if we want them to modify the head of the webpage. Ex. the title
+  
+Body
+  -We place elements in here if we want them to show up in the webpage body. Ex. Text and such.
+  
+Attributes
+  -We can modify elements by giving them attributes. Ex. <p lang="en-us"> This text is in english </p>
+  
+New Tags I learned
+<font> So far I know that this can manipulate the size of text.
+<div> SO far I know that this can change the alignment of a text
