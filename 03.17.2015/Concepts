@@ -1,0 +1,13 @@
+It has been a while since finals has come crashing down, but today I learned about structural and semantic markup.
+Specifically:
+
+Semantic Markup
+---------------
+Bold and Italics - <b> and <i>
+Superscript and Subscript - <sup> and <sub>
+Whitespace collapsing - browsers automatically collapse extra spaces in text
+Line Breaks and Horizontal Rules - <br /> and <hr />
+Strong and Emphasis: <strong> and <em>      // Use this to note importance of words to search engines
+Quotations: <blockquote> and <q>            // Use blockquote for longer quotes and q for short quotes
+Abbreviates: <abbr> Use this element in conjunction with a title element to make text pop up when hovering over words
+       Example: <abbr title="As soon as possible"> A.S.A.P </abbr>
