@@ -1,9 +1,7 @@
-Finished about half of chapter 2 
+Finished chapter 2 and 3 
 It has been a while since finals has come crashing down, but today I learned about structural and semantic markup.
-Specifically:
 
-Semantic Markup
----------------
+Chapter 2--------------------------------------------------------------------------------------------------------
 Bold and Italics - <b> and <i>
 Superscript and Subscript - <sup> and <sub>
 Whitespace collapsing - browsers automatically collapse extra spaces in text
@@ -12,3 +10,17 @@ Strong and Emphasis: <strong> and <em>      // Use this to note importance of wo
 Quotations: <blockquote> and <q>            // Use blockquote for longer quotes and q for short quotes
 Abbreviates: <abbr> Use this element in conjunction with a title element to make text pop up when hovering over words
        Example: <abbr title="As soon as possible"> A.S.A.P </abbr>
+Citations: <cite> element can be used to cite a piece of work such as a book 
+Definitions: <dfn> element can be used to define new words or jargon
+Inserted Elements: <ins> element can be used to indicate that this text has been inserted.
+Deleted Elements: <del> element can be used to indiate that this text will be deleted.
+Strikethrough: <s> element is used to show that the totent is no longer accurate or relevant.
+-----------------------------------------------------------------------------------------------------------------       
+
+Chapter 3--------------------------------------------------------------------------------------------------------
+Ordered List: <ol> element can be used to create an ordered list.
+Unordered List: <ul> element can be used to create an unordered list.
+Definition list: <dl> element can be used to create a list of definitions. Use in conjunction with <dt> to create
+       the term. Use <dd> to create the definition.
+List element: <li> element can be used to create an entry in the list.
+-----------------------------------------------------------------------------------------------------------------
