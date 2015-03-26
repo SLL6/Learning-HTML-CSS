@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Scott Lim </title>
+    <style>
+  body {background-color:lightgray}
+  body {font-family:"arial"}
+  body {color:white}
+  body {font-weight:bold}
+</style>
+  </head>
+  <body>
+  <body background="http://1.bp.blogspot.com/-5XyQx_yZV_M/UCkqTQTlpWI/AAAAAAAAAeU/SeMfnkfh-E4/s1600/dark-blue-background.jpg">
+  <h1 id="top"><font size="6"><div align="center"> <strong>Scott Lim</strong>- <abbr title="University of California, San Diego"><strong>UCSD</strong></abbr> <abbr title="Computer Science">CS</abbr> Undergrad '17 - Aspiring Programmer </div></font></h1>
+  <!-- Details about my life -->
+  <h2><font size="6"> My Life <hr /></font></h2>
+  <ul>
+	  <li> Academics
+	  <ul>
+		  <li> Trying to learn HTML and CSS </li>
+		  <li> Trying to learn Javascript </li>
+	  </ul>
+	  </li>
+	  <br />
+	  <li> Athletics
+	  <ul>
+		  <li> Start doing T25 </li>
+		  <li> Eat on a <strong>routine</strong> </li>
+	  </ul>
+	  </li>
+	  
+  </ul>
+  <br />
+  <h2><font size="6"> School <hr /></font></h2>
+  <ul>
+	  <li> University of California, San Diego - Class of 2017 </li>
+	  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6701.400455110214!2d-117.23329416797806!3d32.87965003625856!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dc06c4414caf4f%3A0xefb6aafc89913ea7!2sUniversity+of+California+San+Diego!5e0!3m2!1sen!2suk!4v1427357506460" width="600" height="450" frameborder="0" style="border:0"></iframe>
+	  <br />
+	  <img src="http://upload.wikimedia.org/wikipedia/en/thumb/4/42/UCSD_Seal.svg/1024px-UCSD_Seal.svg.png" alt="UCSD logo" align="top" height="150" width="150" title="University of California, San Diego" />
+  </ul>
+  <br />
+  <h2><font size="6"> Programming <hr /></font></h2>
+  <ul>
+	  <li> C </li>
+	  <li> C++ </li>
+	  <li> Java </li>
+	  <li> HTML </li>
+	  <li> CSS </li>
+	  <li> Javascript </li>
+	  <li> Assembly </li>
+  </ul>
+  <hr />
+  <h2><font size="6"> Links! </font></h2>
+  <ul>
+	  <li><a href="https://google.com" target="_blank">Google</a></li>
+	  <li><a href="https://basilmarket.com">BasilMarket</a></li>
+	  <li><a href="http://maple.fm">Maple.fm</a></li>
+	  <li><a href="sample.html">Relative Link</a></li>
+  </ul>
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <a href="#top">Move to Top</a>
+  <table>
+	  <tr>
+		  <td></td>
+		  <th>Monday</th>
+		  <th>Tuesday</th>
+		  <th>Wednesday</th>
+		  <th>Thursday</th>
+		  <th>Friday</th>
+		  <th>Saturday</th>
+		  <th>Sunday</th>
+	  </tr>
+	  <tr>
+		  <th>Hours Slept</th>
+		  <td>6.5</td>
+		  <td>4</td>
+		  <td>7</td>
+		  <td>7.5</td>
+		  <td>8</td>
+		  <td>9</td>
+		  <td>6.5</td>
+	  </tr>
+  </table>
+  </body>
+</html>
