@@ -1,0 +1,33 @@
+Quickly went through chapters 4,5,6,7, and 8.
+
+Main concepts from each chapter:
+--------------------------------
+Chapter 4: Links
+  -Links allow you to move from location to location.
+  -Create a link with the <a> tag and href attribute
+  -You can create absolute and relative links
+  
+Chapter 5: Images
+  -Images can be imported to your website via the <img> tag
+  -Use the src attribute to indicate where the picture is from
+  -The alt attribute can be used to give a text description
+  -The title attribute will show text relevant to the image when hovered over
+  -The align attribute indicates how other parts of the page should flow around the image
+  
+Chapter 6: Tables
+  -Tables can be created using the <table> tag
+  -Indicate the start of each row using the <tr> tag
+  -Fill in each element in the table with <td>
+  -Elements can span columns and rows with the colspan and rowspan attribute
+  
+Chapter 7: Forms
+  -An element that will create a form
+
+Chapter 8: Extra Markup
+  -Add comments using <!-- "text" -->
+  -The id attribute can be used with any attribute to uniquely identify for CSS or other purposes
+  -The class attribute can identify multiply elements to be modified with CSs
+  -The div tag allows us to group multiple elemnets together
+  -The span tag allows us to group multiple inline elements
+  -We can use an <iframe> to provide a window into another page
+  -<meta> gives us infomation about the page with its attributes
