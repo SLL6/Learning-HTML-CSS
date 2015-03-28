@@ -6,3 +6,25 @@ Playing Videos
 -we can use html,javascript, or flash to display flash movies
 -<video> can be used to display a video with src and many other attributes
 -<audio> can be used to play audio with src and many other attributes
+
+
+Chapter 10: Introducing CSS
+
+-CSS allows us to control the way that html elements appear on a page
+-CSS rules contain 2 parts: selector and declaration
+  -Selector indicates which elements to apply rule to
+  -Declaration indicates what to do to the elements
+  
+-Internal and External Exclusion of CSS
+  -You can directly(internally) include CSS into your html code
+  -Or you can indirectly(externally) include CSS into your html code using a link element to indicate where the css file is
+  
+-CSS is named "Cascading Style Sheets" because of the way that rules "cascade" onto other rules
+  -If two rules have the same selector, then the last rule will be applied
+  -If one rule is more specific than the other, the that rule will be applied
+  
+-Inheritance
+  -HTML elements inherit css rules, meaning that any child will likely inherit its parent attribute
+  -Some elements such as background do not inherit
+  -If you want to force inheritance to a child element, then add the attribute to be inherited to the child and declare
+    the value of the attribute to be inherit
