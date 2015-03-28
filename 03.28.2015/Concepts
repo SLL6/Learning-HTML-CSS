@@ -1,0 +1,8 @@
+Chapter 9: Flash
+Playing Videos
+--------------
+-animation or videos are called Flash movies
+-flash movies need to be saved in the .swf format to be displayed on a website
+-we can use html,javascript, or flash to display flash movies
+-<video> can be used to display a video with src and many other attributes
+-<audio> can be used to play audio with src and many other attributes
